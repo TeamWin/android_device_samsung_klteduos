@@ -10,5 +10,4 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_DEVICE := klteduos
 PRODUCT_NAME := omni_klteduos
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-G900FD
 PRODUCT_MANUFACTURER := samsung
